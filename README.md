@@ -76,7 +76,9 @@
     👉 **`Launcher.vbs`**
     
     *(Or run `python app.py` manually).*
-
+    
+## Donate
+[Saweria](https://saweria.co/AviL)
 ---
 
 <div id="-versi-bahasa-indonesia"></div>
@@ -173,7 +175,8 @@ LocalBeat/
 └── templates/          # HTML Pages (Lobby & Arena)
 
 ```
-
+## Donate
+[Saweria](https://saweria.co/AviL)
 ---
 
 ## 📜 License
